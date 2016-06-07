@@ -7,3 +7,4 @@ USER = "" # The ident the bot should use.
 GITTER = False # If using on gitter, set to 'True'. (minus quotes)
 REALNAME = "" # The realname the bot should use.
 CHANNELS = [""] # A list of the channels the bot should join, minus the "#", i.e; "#retro" becomes "retro", "#freecodecamp/freecodecamp" becomes "freecodecamp/freecodecamp"
+OWNER = "" # The nickname of the owner.
